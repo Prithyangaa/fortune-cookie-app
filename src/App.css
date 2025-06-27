@@ -55,3 +55,20 @@ h1 {
   transform: scale(1.1) rotate(15deg);
   animation: shake 0.5s ease;
 }
+
+/* Mobile tweaks */
+@media (max-width: 500px) {
+  .cookie-image {
+    width: 300px;
+  }
+
+  .fortune-message {
+    font-size: 0.95rem;
+    bottom: 42%;
+    padding: 0.4rem 0.8rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+}
