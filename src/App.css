@@ -59,11 +59,11 @@ h1 {
 /* Mobile tweaks */
 @media (max-width: 500px) {
   .cookie-image {
-    width: 300px;
+    width: 400px;
   }
 
   .fortune-message {
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     bottom: 42%;
     padding: 0.4rem 0.8rem;
   }
