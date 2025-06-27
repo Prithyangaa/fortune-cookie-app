@@ -59,7 +59,7 @@ h1 {
 /* Mobile tweaks */
 @media (max-width: 500px) {
   .cookie-image {
-    width: 400px;
+    width: 450px;
   }
 
   .fortune-message {
