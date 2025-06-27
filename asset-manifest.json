@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fortune-cookie-app/static/css/main.4b60acc5.css",
+    "main.js": "/fortune-cookie-app/static/js/main.f609eac7.js",
+    "static/media/cookie-open.png": "/fortune-cookie-app/static/media/cookie-open.f15f898c86ab79b08609.png",
+    "static/media/cookie-closed.png": "/fortune-cookie-app/static/media/cookie-closed.75a5f3b4f80f4a765ba5.png",
+    "index.html": "/fortune-cookie-app/index.html",
+    "main.4b60acc5.css.map": "/fortune-cookie-app/static/css/main.4b60acc5.css.map",
+    "main.f609eac7.js.map": "/fortune-cookie-app/static/js/main.f609eac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b60acc5.css",
+    "static/js/main.f609eac7.js"
+  ]
+}
